@@ -1,0 +1,47 @@
+body {
+    color: #eaff00;
+}
+h1 {
+    padding: 20px 0 0 0;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+div.aligncenter {
+    text-align: center;
+}
+img.central_photo {
+    padding: 15px 0 0 0;
+    width: 35%;
+}
+p.about_me {
+    color: #FFD700;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 0 0 0;
+    width: 35%;
+}
+p.activities_text {
+    color: #FFD700;
+    padding: 4% 0 0 15%;
+    font-size: 16px;
+    width: 55%;
+}
+img.activities_photo {
+    padding: 15px 0 0 0;
+    margin-left: 55%;
+    width: 55%;
+}
+p.experience_programm_text {
+    color: #FFD700;
+    padding: 4% 15% 0 0;
+    margin-left: 55%;
+    font-size: 16px;
+    width: 55%;
+}
+img.experience_programm_photo {
+    padding: 15px 0 0 0;
+    width: 55%;
+}
+
