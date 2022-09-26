@@ -10,4 +10,4 @@
 
 2)Установите зависимости из файла requirements.txt: pip install -r requirements.txt
 
-3)В папке с файлом manage.py выполните команду: python3 manage.py runserver
+3)В папке(introduction) с файлом manage.py выполните команду: python3 manage.py runserver
